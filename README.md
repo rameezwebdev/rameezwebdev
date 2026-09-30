@@ -140,7 +140,7 @@ I'm a **Frontend Engineer** and Computer Science student (BS, The Islamia Univer
     </td>
     <td width="33%" align="center">
       <a href="https://pokemon-ca.netlify.app/">
-        <img src="assets/projects/localhostweb.png" alt="Pokemon Project" width="100%"/>
+        <img src="assets/projects/localhostweb1.png" alt="Pokemon Project" width="100%"/>
       </a>
       <br><br>
       <b>Pokemon</b>
