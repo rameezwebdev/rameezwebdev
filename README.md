@@ -127,7 +127,7 @@ I'm a **Frontend Engineer** and Computer Science student (BS, The Islamia Univer
   <tr>
     <td width="33%" align="center">
       <a href="https://taskader.netlify.app/">
-        <img src="https://placehold.co/600x380/1f3a5f/ffffff.png?text=Task+Manager" alt="Task Manager Project" width="100%"/>
+        <img src="assets/projects/localhost.png" alt="Task Manager Project" width="100%"/>
       </a>
       <br><br>
       <b>Task Manager</b>
@@ -136,24 +136,24 @@ I'm a **Frontend Engineer** and Computer Science student (BS, The Islamia Univer
       <br><br>
       <a href="https://taskader.netlify.app/">🌐 Live Demo</a>
       &nbsp;•&nbsp;
-      <a href="https://github.com/buildwithrameez/react-todo-app">💻 Source</a>
+      <a href="https://github.com/rameezwebdev/react-todo-app.git">💻 Source</a>
     </td>
     <td width="33%" align="center">
-      <a href="https://daypredic.netlify.app/">
-        <img src="https://placehold.co/600x380/1f3a5f/ffffff.png?text=Weather+Dashboard" alt="Weather Dashboard Project" width="100%"/>
+      <a href="https://pokemon-ca.netlify.app/">
+        <img src="assets/projects/localhostweb.png" alt="Pokemon Project" width="100%"/>
       </a>
       <br><br>
-      <b>Weather Dashboard</b>
+      <b>Pokemon</b>
       <br>
-      <sub>Responsive weather application using REST API data with search and error states</sub>
+      <sub>Responsive Pokemon Characters using REST API data with search and error states</sub>
       <br><br>
-      <a href="https://daypredic.netlify.app/">🌐 Live Demo</a>
+      <a href="https://pokemon-ca.netlify.app/">🌐 Live Demo</a>
       &nbsp;•&nbsp;
-      <a href="https://github.com/buildwithrameez/javascript-weather-app">💻 Source</a>
+      <a href="https://github.com/rameezwebdev/react-pokemon-web.git">💻 Source</a>
     </td>
     <td width="33%" align="center">
       <a href="https://gradient-color-selector.netlify.app/">
-        <img src="https://placehold.co/600x380/1f3a5f/ffffff.png?text=Gradient+Color+Picker" alt="Gradient Color Picker Project" width="100%"/>
+        <img src="assets/projects/gradient-color-selector.png" alt="Gradient Color Picker Project" width="100%"/>
       </a>
       <br><br>
       <b>Gradient Color Picker</b>
@@ -162,7 +162,7 @@ I'm a **Frontend Engineer** and Computer Science student (BS, The Islamia Univer
       <br><br>
       <a href="https://gradient-color-selector.netlify.app/">🌐 Live Demo</a>
       &nbsp;•&nbsp;
-      <a href="https://github.com/buildwithrameez/javascript-gradient-picker">💻 Source</a>
+      <a href="https://github.com/rameezwebdev/javascript-gradient-picker.git">💻 Source</a>
     </td>
   </tr>
 </table>
