@@ -78,7 +78,7 @@ I'm a **Frontend Engineer** and Computer Science student (BS, The Islamia Univer
   <tr>
     <td width="33%" align="center">
       <a href="https://naturesblessing.store/">
-        <img src="https://placehold.co/600x380/1f3a5f/ffffff.png?text=Nature%27s+Blessing" alt="Nature's Blessing Shopify Store" width="100%"/>
+        <img src="assets/projects/Naturesblessing-store.png" alt="Nature's Blessing Shopify Store" width="100%"/>
       </a>
       <br><br>
       <b>Nature's Blessing</b>
@@ -88,8 +88,19 @@ I'm a **Frontend Engineer** and Computer Science student (BS, The Islamia Univer
       <a href="https://naturesblessing.store/">🌐 Live Store</a>
     </td>
     <td width="33%" align="center">
+      <a href="https://c2paint.com/">
+        <img src="assets/projects/c2paint.png" alt="C2 Paint Shopify Store" width="100%"/>
+      </a>
+      <br><br>
+      <b>C2 Paint</b>
+      <br>
+      <sub>C2 Paint offers premium, pigment-rich paints with exceptional depth, coverage and true color performance</sub>
+      <br><br>
+      <a href="https://c2paint.com/">🌐 Live Store</a>
+    </td>
+    <td width="33%" align="center">
       <a href="https://www.pouchbro.com/">
-        <img src="https://placehold.co/600x380/1f3a5f/ffffff.png?text=PouchBro" alt="PouchBro Shopify Store" width="100%"/>
+        <img src="assets/projects/pouchbro.jpg" alt="PouchBro Shopify Store" width="100%"/>
       </a>
       <br><br>
       <b>PouchBro</b>
@@ -97,17 +108,6 @@ I'm a **Frontend Engineer** and Computer Science student (BS, The Islamia Univer
       <sub>Niche product brand store with a custom, conversion-focused UI</sub>
       <br><br>
       <a href="https://www.pouchbro.com/">🌐 Live Store</a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://kingbrew.org/">
-        <img src="https://placehold.co/600x380/1f3a5f/ffffff.png?text=King+Brew" alt="King Brew Shopify Store" width="100%"/>
-      </a>
-      <br><br>
-      <b>King Brew</b>
-      <br>
-      <sub>Coffee brand store with a customized theme and product-focused layout</sub>
-      <br><br>
-      <a href="https://kingbrew.org/">🌐 Live Store</a>
     </td>
   </tr>
 </table>
