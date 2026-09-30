@@ -183,14 +183,14 @@ I'm a **Frontend Engineer** and Computer Science student (BS, The Islamia Univer
   <tr>
     <td width="100%" align="center">
       <a href="https://github.com/buildwithrameez/django-smart-appointment-web">
-        <img src="https://placehold.co/1000x500/1f3a5f/ffffff.png?text=Smart+Appointment+%26+Queue+Management+System" alt="Smart Appointment and Queue Management System" width="85%"/>
+        <img src="assets/projects/smart.webp" alt="Smart Appointment and Queue Management System" width="85%"/>
       </a>
       <br><br>
       <b>🚦 Smart Appointment & Queue Management System</b>
       <br>
       <sub>Full-stack queue management system with digital token generation, queue position tracking, role-based workflows and authentication.</sub>
       <br><br>
-      <a href="https://github.com/buildwithrameez/django-smart-appointment-web">💻 Source Code</a>
+      <a href="https://github.com/rameezwebdev/django-smart-appointment-web.git">💻 Source Code</a>
     </td>
   </tr>
 </table>
