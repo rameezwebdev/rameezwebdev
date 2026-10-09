@@ -1,6 +1,6 @@
 <h1 align="center">Muhammad Rameez</h1>
 
-<h3 align="center">Frontend Engineer | JavaScript, React & Shopify</h3>
+<h3 align="center">Frontend Engineer | Shopify Developer (Liquid) | React & JavaScript | 35+ Custom Storefronts for Global Clients | Open to Remote</h3>
 
 <p align="center">
 Building fast, responsive and accessible web experiences.<br>
